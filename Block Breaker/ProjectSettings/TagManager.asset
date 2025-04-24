@@ -7,6 +7,10 @@ TagManager:
   - Paddle
   - Block
   - Ball
+  - DontDestroyOnLoad
+  - PoweUpBlock
+  - PowerUpBlock
+  - PowerUp
   layers:
   - Default
   - TransparentFX

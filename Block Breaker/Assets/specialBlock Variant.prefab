@@ -352,4 +352,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cdbb70afc09dfd842a5df3315b22421a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballPrefab: {fileID: 1442277195873341234, guid: a1b435591852b9f47bbc7bce7002f6e9, type: 3}
+  explosionEffect: {fileID: 4490953768399168956, guid: bd4716ca2971d0949bc9d534fb2eb480, type: 3}
+  explosionRadius: 1.5
+  explosionSound: {fileID: 8300000, guid: 0a0b697b3a009c841a7910c518763f68, type: 3}
